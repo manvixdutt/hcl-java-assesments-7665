@@ -1,6 +1,6 @@
 # Library Management System (Assessment 2)
 
-**Name:** <your name> | **Roll No:** <your roll no> | **Batch:** <your batch>
+Name:MANVI DUTT | Roll No:2300320130146 | Batch:IT
 
 ## How to compile and run
 From inside the `Assignment` folder:
